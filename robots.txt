@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://ibpclab.github.io/al-folio/sitemap.xml
+Sitemap: http://ibpclab.com/sitemap.xml
