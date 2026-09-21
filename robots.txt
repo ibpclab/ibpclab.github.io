@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://ibpclab.com/sitemap.xml
+Sitemap: https://www.ibpclab.com/sitemap.xml
