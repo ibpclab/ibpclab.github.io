@@ -18,4 +18,14 @@ profiles:
       <p>STEM Building Office 618</p>
       <p>817 W. Franklin St</p>
       <p>Richmond, VA 23220</p>
+      - align: left
+    image: 
+    content: >
+      <span style="font-size: 1.4rem; font-weight: 700;">Euiyoung Lee, MS</span><br><br>
+      Euiyoung Lee is a PhD student in the Department of Kinesiology & Health Sciences at Virginia Commonwealth University, in the IBPC Laboratory.
+    image_circular: true
+    more_info: >
+      <p>STEM Building Office 652</p>
+      <p>817 W. Franklin St</p>
+      <p>Richmond, VA 23220</p>
 ---
