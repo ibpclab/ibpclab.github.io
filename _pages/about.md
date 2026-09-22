@@ -27,8 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+The Integrative Blood Pressure Control (IBPC) Laboratory is a research group at Virginia Commonwealth University dedicated to understanding how aging and changing hormone levels affect blood pressure regulation. We study the interplay between testosterone, the nervous system, and the blood vessels and kidneys that together control blood pressure, with the goal of explaining why cardiovascular risk changes as hormone levels shift across the lifespan.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Our work combines observational studies with controlled hormone manipulation to isolate cause from correlation, including research into how androgen deprivation therapy in men with prostate cancer affects neural control of blood pressure and kidney function. We collaborate widely, including as part of the [Cardiovascular Collective](https://www.cvcollective.org), and are committed to training the next generation of physiologists alongside our research.
