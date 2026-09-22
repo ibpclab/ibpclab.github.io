@@ -1,8 +1,8 @@
 ---
 layout: about
 title: About
-permalink: /About
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+permalink: /
+subtitle: Department of Kinesiology & Health Sciences | VCU
 
 profile:
   align: right
