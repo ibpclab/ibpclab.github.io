@@ -11,7 +11,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: Babcock Headshot.jpg
-    content: about_einstein.md
+    content: babcock_bio.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>STEM Building Office 618</p>
