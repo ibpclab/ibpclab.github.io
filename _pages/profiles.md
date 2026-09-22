@@ -8,7 +8,7 @@ nav_order: 7
 
 profiles:
   - align: right
-    image: Babcock Headshot.jpg
+    image: babcock-headshot.jpg
     content: >
       <span style="font-size: 1.4rem; font-weight: 700;">Matt Babcock, PhD</span><br><br>
       Dr. Matthew C. Babcock is an Assistant Professor in the Department of Kinesiology & Health Sciences at Virginia Commonwealth University, where he directs the Integrative Blood Pressure Control (IBPC) Laboratory. His research examines the cardiovascular, autonomic, renal, and endocrine mechanisms linking testosterone and aging to blood pressure regulation, with the goal of understanding why cardiovascular risk shifts as hormone levels change across the lifespan. His work is supported by an active NIH K01 award.<br><br>
