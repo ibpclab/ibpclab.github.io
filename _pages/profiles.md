@@ -11,9 +11,6 @@ nav_order: 7
   <div class="col-md-3 text-center">
     <img src="{{ '/assets/img/babcock-headshot.jpg' | relative_url }}" class="img-fluid rounded-circle z-depth-1" alt="Matt Babcock" style="max-width: 180px;">
     <div class="mt-2 text-muted" style="font-size: 0.9rem;">
-      <p class="mb-0">STEM Building Office 618</p>
-      <p class="mb-0">817 W. Franklin St</p>
-      <p class="mb-0">Richmond, VA 23220</p>
     </div>
   </div>
   <div class="col-md-9">
@@ -29,9 +26,6 @@ nav_order: 7
   <div class="col-md-3 text-center">
     <img src="{{ '/assets/img/lee_headshot.jpg' | relative_url }}" class="img-fluid rounded-circle z-depth-1" alt="Euiyoung Lee" style="max-width: 180px;">
     <div class="mt-2 text-muted" style="font-size: 0.9rem;">
-      <p class="mb-0">STEM Building Office 652</p>
-      <p class="mb-0">817 W. Franklin St</p>
-      <p class="mb-0">Richmond, VA 23220</p>
     </div>
   </div>
   <div class="col-md-9">
