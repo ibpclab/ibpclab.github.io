@@ -44,6 +44,6 @@ nav_order: 7
   </div>
   <div class="col-md-9">
     <h3>Shabnam Noori</h3>
-    <p>Euiyoung Lee is a PhD student in the Department of Kinesiology & Health Sciences at Virginia Commonwealth University, in the IBPC Laboratory.</p>
+    <p>Euiyoung Lee is an undergraduate student at Virginia Commonwealth University working in the IBPC Laboratory.</p>
   </div>
 </div>
